@@ -8,6 +8,7 @@ import org.junit.jupiter.api.Test;
 
 import java.util.List;
 
+// 자바는 JUnit이라는 프레임워크로 테스트를 실행해서 이러한 문제를 해결한다.
 // 테스트 케이스는 먼저 테스트케이스를 작성하고 나서 코딩해도 되고
 // 코딩 먼저 하고 테스트케이스를 구현해두됨.
 
