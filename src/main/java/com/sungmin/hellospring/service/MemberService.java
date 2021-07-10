@@ -2,9 +2,11 @@ package com.sungmin.hellospring.service;
 
 import com.sungmin.hellospring.domain.Member;
 import com.sungmin.hellospring.repository.MemberRepository;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.Optional;
+
 
 public class MemberService {
 
